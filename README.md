@@ -9,7 +9,7 @@ Let the battle begin!
 |Parameters                     |Batbox.exe     |Fn.dll      |
 |-------------------------------|---------------|------------|
 |Size                           |**1.5Kb**      |5.5 Kb      | 
-|Argumentscount                 |**11**         |10          |
+|Arguments count                 |**11**         |10          |
 |Multiple Loop Calls            |Slow           |**Fast**    |
 |Multiple Arguments in Single Go|**Possible**   |Not Possible|
 |Practically Useful             |**Yes**        |Maybe       |
