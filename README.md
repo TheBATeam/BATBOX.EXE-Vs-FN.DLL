@@ -1,5 +1,5 @@
 # BATBOX.EXE-Vs-FN.DLL
-Here, we’re talking about some **pre-existing**, simple but awesome **batch plugins**. (BATBOX.EXE VS FN.DLL). Both are best in own places. But today, we are looking at the fact of which one is better. 
+In this article, we’re talking about some **pre-existing**, simple but awesome **batch plugins**. (BATBOX.EXE VS FN.DLL). Both are best in own places. But today, we are looking at the fact of which one is better. 
 
 # ANALYSIS OF BOTH PLUGINS
 Here, we have selected some **parameters**. According to which we’ll decide which one is better. So, below we are going to make a table type layout so it will be easier for you to understand things.
